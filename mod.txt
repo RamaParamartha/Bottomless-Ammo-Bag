@@ -1,0 +1,15 @@
+{
+	"name":	"Bottomless Bodybag",
+	"description":	"Makes the ammo bag equipment bottomless/infinite",
+	"author":	"Pyrosyphon",
+	"contact":	"https://next.nexusmods.com/profile/Pyrosyphon",
+	"version":	"1.0",
+    "blt_version": 2,
+	"priority":	"1000",
+	"hooks": [
+		{
+			"hook_id" : "lib/units/equipment/ammo_bag/ammobagbase",
+			"script_path": "ammobag.lua"
+		}
+	]
+}
