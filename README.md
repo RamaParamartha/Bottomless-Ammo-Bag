@@ -1,2 +1,2 @@
-#Bottomless Ammo bag
+# Bottomless Ammo bag
 Makes the ammo bag equipment bottomless/infinite.
