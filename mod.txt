@@ -1,5 +1,5 @@
 {
-	"name":	"Bottomless Bodybag",
+	"name":	"Bottomless ammo bag",
 	"description":	"Makes the ammo bag equipment bottomless/infinite",
 	"author":	"Pyrosyphon",
 	"contact":	"https://next.nexusmods.com/profile/Pyrosyphon",
